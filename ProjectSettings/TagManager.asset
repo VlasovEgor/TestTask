@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2997333071
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: HealthCounter
+    uniqueID: 1500404151
     locked: 0
